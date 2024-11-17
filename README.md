@@ -1,4 +1,6 @@
-# Field Segmentation
+# C242-FS01 Machine Learning
+
+## Field Segmentation
 
 
 ## Project Overview
@@ -17,7 +19,6 @@
 
 
 ## Results
-
 
 
 ## Future Work
