@@ -1,4 +1,4 @@
-# C242-Fs01 Machine Learning Documentation
+# C242-FS01 Machine Learning Documentation
 
 This repository contains Jupyter notebooks designed for preprocessing, training, and prediction workflows using machine learning models. Below is an overview of each file and its functionalities. The dataset is sourced from the **Solafune competition**, accessible via the following link:
 
