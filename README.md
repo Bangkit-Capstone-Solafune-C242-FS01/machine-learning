@@ -65,11 +65,19 @@ This notebook uses the trained model to make predictions on new data.
    git clone https://github.com/Bangkit-Capstone-Solafune-C242-FS01/machine-learning
    cd machine-learning
    ```
-2. Install dependencies:
+2. Choose model framework:
+   ```bash
+   cd pytorch
+   ```
+   or
+   ```bash
+   cd tensorflow
+   ```
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Open Jupyter Lab:
+5. Open Jupyter Lab:
    ```bash
    jupyter lab
    ```
