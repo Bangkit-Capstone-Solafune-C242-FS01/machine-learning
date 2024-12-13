@@ -88,7 +88,7 @@ This notebook uses the trained model to make predictions on new data.
 ## Requirements
 - Python 3.9+
 - jupyter notebook
-- Common Python libraries: NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow/PyTorch (adjust based on model framework)
+- Common Python libraries: NumPy, Scikit-learn, Matplotlib, TensorFlow/PyTorch (adjust based on model framework)
 - rasterio
 - albumentations
 - timm
