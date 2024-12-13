@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+matplotlib
+rasterio
+patchify
+numpy
+segmentation-models
